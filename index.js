@@ -3,3 +3,6 @@ console.log("Second line in the index file")
 
 
 console.log("Third line");
+
+console.log("Third line v2");
+
